@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giovanni Alfarano, I study Data Science and Data Analysis
-  (mainly for economics) and i previously studied Banaking and Finance
+  (mainly for economics) and i previously studied Banking and Finance
 - 🌱 I’m currently learning data science, machine learning, deep learning,
   and in general all the math and computer science concepts that grab my attention
 - 🔆 I will post my projects here
